@@ -1,6 +1,6 @@
 # Financial Retirement Planner Simulator
 This project helps credit union members evaluate their financial health for retirement planning purposes.  By assessing their monthly budget, the application is then able to 
-forecast a reasonably effective retirement plan based on their current holdings of cryptocurrencies, stocks, and bonds.  Both 10-year and 30-year Monte Carlo simulations are done to provide possible retirement options for the credit union member. 
+forecast a reasonably effective retirement plan based on their current holdings of cryptocurrencies, stocks, and bonds.  Both 10-year and 30-year Monte Carlo simulations are done to provide possible retirement options for each credit union member. 
 
 ---
 
