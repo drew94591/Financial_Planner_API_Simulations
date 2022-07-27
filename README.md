@@ -24,6 +24,24 @@ This application leverages python 3.7 with the following libraries and packages:
 
 ---
 
+## Installation Guide
+
+Before running the application first install the following dependencies.
+
+### Conda Libraries
+```python
+  $ conda install -c anaconda requests
+  $ conda install -c jmcmurray json
+```
+
+### Python Modules
+```python
+  $ pip install python-dotenv
+  $ pip install alpaca-trade-api
+```
+
+---
+
 ## Usage
 
 To use the financial retirement planner simulator application you must first launch Jupyter Lab by executing the following command within Git Bash:
